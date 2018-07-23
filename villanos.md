@@ -2,3 +2,4 @@
 
 * Venom
 * Hombre lagarto
+* Capitán America
