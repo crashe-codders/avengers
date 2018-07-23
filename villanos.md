@@ -1,4 +1,4 @@
 # Villanos
 
 * Venom
-* Hombre lagarto
+* Hombre lagartito
